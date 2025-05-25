@@ -1,7 +1,30 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>
+# 👋 Hi, I'm Afroz Aman
+
+**AI-Focused Software Engineer | MCA Student at GNIT Kolkata**
+
+Welcome to my GitHub! I’m passionate about building intelligent, production-ready systems that leverage modern AI and full-stack technologies. My experience spans end-to-end application development, from designing clean APIs with FastAPI to creating interactive UIs with React, and deploying solutions on AWS and GCP.
+
+### 🚀 What I Do
+- Build AI/ML-driven apps using Python, FastAPI, and Hugging Face Transformers
+- Develop scalable full-stack solutions with React, Node.js, and Prisma ORM
+- Explore advanced GenAI frameworks like LangChain and RAG pipelines
+- Automate cloud deployments and CI/CD processes with Docker and GitHub Actions
+
+### 🌟 Featured Projects
+- **SolvePT:** Offline GenAI LeetCode Assistant using LLM orchestration & RAG
+- **Disease Prediction:** NLP medical assistant (FastAPI + Streamlit + GCP)
+- **MERN E-Commerce:** Full-stack e-commerce platform with cloud deployment
+- **Personal Portfolio:** Modular and accessible React-based showcase
+
+### 💡 What I Value
+- Clean, maintainable code and open collaboration
+- Creative problem-solving and rapid prototyping
+- Teamwork, mentoring, and sharing knowledge with the community
 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=afrozaman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afroz-aman-953a85182/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afrozaman123@gmail.com) 
