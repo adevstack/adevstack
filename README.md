@@ -21,11 +21,6 @@ Welcome to my GitHub! I’m passionate about building intelligent, production-re
 - Creative problem-solving and rapid prototyping
 - Teamwork, mentoring, and sharing knowledge with the community
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afrozaman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afroz-aman-953a85182/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afrozaman123@gmail.com) 
 
